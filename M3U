@@ -1,7 +1,19 @@
 #EXTM3U url-tvg="https://github.com/dtankdempse/daddylive-m3u/raw/refs/heads/main/epg.xml"
 #EXTINF:-1 tvg-id="Préparatoire - 1,20m - Jumping Pro-Am Royan - 2025 | Videos, Live Streams, Films and Shows | ClipMyHorse.TV" tvg-name="Préparatoire - 1,20m - Jumping Pro-Am Royan - 2025 | Videos, Live Streams, Films and Shows | ClipMyHorse.TV" tvg-logo="" group-title=""
 https://archive.vod.clipmyhorse.tv/amlst:adaptive,2025/Royan_16262/Thursday/Prfg_1_Pruefung_615983,-1,-1/playlist.m3u8?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.IntcImlwXCI6XCI1MS41Mi4zNC4yNDhcIixcIm5iZlwiOjAsXCJleHBcIjoxNzQ3MzI5Mzg3fSI.RFXy2dvKIGWIwp6zlShxWPiZcwA4loAlGf7uycaqGoE
-
+#EXTM3U url-tvg="https://github.com/dtankdempse/daddylive-m3u/raw/refs/heads/main/epg.xml"
+#EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA (DADDY LIVE)",A&E
+https://m3u-drab.vercel.app?url=https%3A%2F%2Fxyzdddd.mizhls.ru%2Flb%2Fpremium302%2Findex.m3u8%0D&data=UmVmZXJlcj1odHRwczovL2Nvb2tpZXdlYnBsYXkueHl6L3xVc2VyLUFnZW50PU1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyOS4wLjAuMCBTYWZhcmkvNTM3LjM2fE9yaWdpbj1odHRwczovL2Nvb2tpZXdlYnBsYXkueHl6
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="USA (DADDY LIVE)",ABC
+https://m3u-drab.vercel.app?url=https%3A%2F%2Fxyzdddd.mizhls.ru%2Flb%2Fpremium51%2Findex.m3u8%0D&data=UmVmZXJlcj1odHRwczovL2Nvb2tpZXdlYnBsYXkueHl6L3xVc2VyLUFnZW50PU1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyOS4wLjAuMCBTYWZhcmkvNTM3LjM2fE9yaWdpbj1odHRwczovL2Nvb2tpZXdlYnBsYXkueHl6
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABCNY" tvg-logo="https://www.freepnglogos.com/uploads/abc-png-logo/abc-gold-media-kit-png-logo-17.png" group-title="USA (DADDY LIVE)",ABCNY
+https://m3u-drab.vercel.app?url=https%3A%2F%2Fxyzdddd.mizhls.ru%2Flb%2Fpremium766%2Findex.m3u8%0D&data=UmVmZXJlcj1odHRwczovL2Nvb2tpZXdlYnBsYXkueHl6L3xVc2VyLUFnZW50PU1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyOS4wLjAuMCBTYWZhcmkvNTM3LjM2fE9yaWdpbj1odHRwczovL2Nvb2tpZXdlYnBsYXkueHl6
+#EXTINF:-1 tvg-id="ACC.Network.us" tvg-name="ACCNetwork" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/acc-network-us.png" group-title="SPORTS (DADDY LIVE)",ACC Network
+https://m3u-drab.vercel.app?url=https%3A%2F%2Fxyzdddd.mizhls.ru%2Flb%2Fpremium664%2Findex.m3u8%0D&data=UmVmZXJlcj1odHRwczovL2Nvb2tpZXdlYnBsYXkueHl6L3xVc2VyLUFnZW50PU1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyOS4wLjAuMCBTYWZhcmkvNTM3LjM2fE9yaWdpbj1odHRwczovL2Nvb2tpZXdlYnBsYXkueHl6
+#EXTINF:-1 tvg-id=" Altitude.Sports.-.Denver.us" tvg-name="AltitudeSports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png" group-title="SPORTS (DADDY LIVE)",Altitude Sports
+https://m3u-drab.vercel.app?url=https%3A%2F%2Fxyzdddd.mizhls.ru%2Flb%2Fpremium923%2Findex.m3u8%0D&data=UmVmZXJlcj1odHRwczovL2Nvb2tpZXdlYnBsYXkueHl6L3xVc2VyLUFnZW50PU1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyOS4wLjAuMCBTYWZhcmkvNTM3LjM2fE9yaWdpbj1odHRwczovL2Nvb2tpZXdlYnBsYXkueHl6
+#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="USA (DADDY LIVE)",AMC
+https://m3u-drab.vercel.app?
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABCNY" tvg-logo="https://www.freepnglogos.com/uploads/abc-png-logo/abc-gold-media-kit-png-logo-17.png" group-title="USA (DADDY LIVE)",ABCNY
 https://archive.vod.clipmyhorse.tv/amlst:adaptive,2025/Royan_16262/Thursday/Prfg_1_Pruefung_615983,-1,-1/chunklist_b2628000.m3u8
 
